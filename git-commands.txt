@@ -1,2 +1,2 @@
 git init
-git status
+git status -> show the status 
