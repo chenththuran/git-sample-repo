@@ -1,3 +1,4 @@
 git init > initialise the git repo
 git status -> show the status 
 git commit -m "" > commit the changes 
+git checkout
